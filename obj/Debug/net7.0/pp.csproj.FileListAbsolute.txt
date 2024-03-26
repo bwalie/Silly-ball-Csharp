@@ -1,0 +1,5 @@
+C:\kurssit\ohj1\paate\paate1\pp\obj\Debug\net7.0\pp.csproj.AssemblyReference.cache
+C:\kurssit\ohj1\paate\paate1\pp\obj\Debug\net7.0\pp.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurssit\ohj1\paate\paate1\pp\obj\Debug\net7.0\pp.AssemblyInfoInputs.cache
+C:\kurssit\ohj1\paate\paate1\pp\obj\Debug\net7.0\pp.AssemblyInfo.cs
+C:\kurssit\ohj1\paate\paate1\pp\obj\Debug\net7.0\pp.csproj.CoreCompileInputs.cache
